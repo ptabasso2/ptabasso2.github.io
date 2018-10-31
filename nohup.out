@@ -1,0 +1,131 @@
+Configuration file: /Users/pejman.tabassomi/Documents/cayman/_config.yml
+[33mInvalid theme folder: _includes[0m
+            Source: /Users/pejman.tabassomi/Documents/cayman
+       Destination: /Users/pejman.tabassomi/Documents/cayman/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+                    done in 0.354 seconds.
+ Auto-regeneration: enabled for '/Users/pejman.tabassomi/Documents/cayman'
+    Server address: http://127.0.0.1:4000
+  Server running... press ctrl-c to stop.
+      Regenerating: 1 file(s) changed at 2018-10-28 22:10:16
+                    nohup.out
+                    ...done in 0.080472 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2018-10-28 22:10:24
+                    nohup.out
+                    ...done in 0.063992 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2018-10-28 22:10:43
+                    nohup.out
+                    ...done in 0.076027 seconds.
+                    
+Configuration file: /Users/pejman.tabassomi/Documents/cayman/_config.yml
+[33mInvalid theme folder: _includes[0m
+            Source: /Users/pejman.tabassomi/Documents/cayman
+       Destination: /Users/pejman.tabassomi/Documents/cayman/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+                    done in 0.355 seconds.
+ Auto-regeneration: enabled for '/Users/pejman.tabassomi/Documents/cayman'
+    Server address: http://127.0.0.1:4000
+  Server running... press ctrl-c to stop.
+      Regenerating: 1 file(s) changed at 2018-10-28 22:15:28
+                    nohup.out
+                    ...done in 0.100591 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2018-10-28 22:15:33
+                    nohup.out
+                    ...done in 0.064163 seconds.
+                    
+      Regenerating: 2 file(s) changed at 2018-10-28 22:16:02
+                    index.md
+                    nohup.out
+                    ...done in 0.074577 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2018-10-28 22:16:17
+                    nohup.out
+                    ...done in 0.0777 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2018-10-28 22:16:26
+                    nohup.out
+                    ...done in 0.059335 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2018-10-28 22:17:53
+                    _layouts/default.html
+                    ...done in 0.076754 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2018-10-28 22:18:28
+                    _layouts/default.html
+                    ...done in 0.074989 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2018-10-28 22:18:55
+                    _layouts/default.html
+                    ...done in 0.065564 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2018-10-28 22:19:13
+                    _layouts/default.html
+                    ...done in 0.062978 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2018-10-28 22:19:58
+                    _layouts/default.html
+                    ...done in 0.084482 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2018-10-28 22:21:25
+                    nohup.out
+                    ...done in 0.079845 seconds.
+                    
+      Regenerating: 2 file(s) changed at 2018-10-28 22:21:39
+                    index.md
+                    nohup.out
+                    ...done in 0.067759 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2018-10-28 22:21:39
+                    nohup.out
+                    ...done in 0.065637 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2018-10-28 22:22:13
+                    nohup.out
+                    ...done in 0.067249 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2018-10-28 22:22:15
+                    nohup.out
+                    ...done in 0.060211 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2018-10-28 22:22:22
+                    nohup.out
+                    ...done in 0.061542 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2018-10-28 22:22:44
+                    nohup.out
+                    ...done in 0.07989 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2018-10-28 22:22:52
+                    nohup.out
+                    ...done in 0.067919 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2018-10-28 22:22:54
+                    nohup.out
+                    ...done in 0.070347 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2018-10-28 22:31:04
+                    nohup.out
+                    ...done in 0.082855 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2018-10-29 09:21:06
+                    nohup.out
+                    ...done in 0.194702 seconds.
+                    
+Configuration file: /Users/pejman.tabassomi/Documents/cayman/_config.yml
+[33mInvalid theme folder: _includes[0m
+            Source: /Users/pejman.tabassomi/Documents/cayman
+       Destination: /Users/pejman.tabassomi/Documents/cayman/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+                    done in 0.362 seconds.
+ Auto-regeneration: enabled for '/Users/pejman.tabassomi/Documents/cayman'
+jekyll 3.8.4 | Error:  Address already in use - bind(2) for 127.0.0.1:4000
+      Regenerating: 1 file(s) changed at 2018-10-31 16:01:51
+                    nohup.out
+                    ...done in 1.577928 seconds.
+                    
