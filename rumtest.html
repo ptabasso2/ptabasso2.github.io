@@ -29,8 +29,8 @@
         .then(function (response) {
         return response.text();
     })
-    .then(function (myJson) {
-    console.log(myJson.ip);
+    .then(function (data) {
+    console.log(data);
     })
     .catch(function (error) {
     console.log("Error: " + error);
